@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=MainFX
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=primaryStage
+comment2.target=void\ start(javafx.stage.Stage)
+comment3.params=
+comment3.target=void\ buildUI()
+comment4.params=
+comment4.target=void\ customizeUI()
+comment5.params=
+comment5.target=void\ registerEvents()
+comment6.params=hostFile\ hiddenFile
+comment6.target=void\ fileIOfunction(java.lang.String,\ java.lang.String)
+comment7.params=retrieveFile\ saveToFile
+comment7.target=void\ retrieveFunction(java.lang.String,\ java.lang.String)
+comment8.params=
+comment8.target=void\ changeToFalse()
+comment9.params=
+comment9.target=void\ changeToTrue()
+numComments=10
