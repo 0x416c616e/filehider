@@ -1,4 +1,8 @@
-# READ THIS BEFORE USING
+# FILEHIDER
+
+![screenshot](https://github.com/0x416c616e/filehider/blob/master/FileHider.png)
+
+## READ THIS BEFORE USING
 
 ## QUICK START
 If you just want to use the program and aren't interested in looking at the source code or compiling it yourself, just run the JAR file (FileHider.jar).
