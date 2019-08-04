@@ -9,6 +9,10 @@ If you just want to use the program and aren't interested in looking at the sour
 
 This is a single-class JavaFX program. MainFX is the entry point.
 
+This program requires **Java 8** to run. You can run it with this:
+    
+    java -jar filename.jar
+
 ## This program has 2 key features:
 1. It can hide files within other files (currently limited to image files for the "host" file).
 2. It can retrieve files from other files.
